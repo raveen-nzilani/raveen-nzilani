@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raveen-nzilani
 - 👀 I’m interested in operating systems, embedded systems, all things systems...
-- 🌱 I’m currently learning: the linux systemd boot process
+- 🌱 I’m currently learning: linux systemd boot process
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: raveen@alum.mit.edu
 
